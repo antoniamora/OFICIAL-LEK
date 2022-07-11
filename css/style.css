@@ -582,3 +582,31 @@ a:focus {
     }
 }
 
+.saber {
+	margin: 0.5rem;
+	padding: 0.1rem;
+	text-align: center;
+	color: rgb(0, 0, 0);
+	font-size: 1.8rem;
+  }
+
+.email {
+  margin: 0.5rem;
+  padding: 0.1rem;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-size: 1.5rem;
+}
+
+.o {
+	text-align: center;
+	color: rgb(0, 0, 0);
+	font-size: 1.5rem;
+  }
+
+.escribenos {
+	margin: 0.5rem;
+	text-align: center;
+	color: rgb(103, 52, 170);
+	font-size: 1.5rem;
+  }
