@@ -85,12 +85,7 @@
 	fill: none;
 }
 
-/* Kalimba */
-.kalimba__inner {
-	fill: #ffe3a2;
-	stroke: #ffc938;
-	stroke-width: 1px;
-}
+
 
 /* Big chime */
 .chime__inner {
