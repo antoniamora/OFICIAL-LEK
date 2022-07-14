@@ -610,3 +610,7 @@ a:focus {
 	color: rgb(103, 52, 170);
 	font-size: 1.5rem;
   }
+
+  .background_image {
+	background-image: url(../img/blackboard.jpg);
+  }
