@@ -610,3 +610,9 @@ a:focus {
 	color: rgb(103, 52, 170);
 	font-size: 1.5rem;
   }
+.icons {
+	position: fixed;
+	right: 0;
+	top: 200px;
+	z-index: 2000;
+}
