@@ -1,0 +1,8 @@
+<section class="content flexy content--bg content--bg-violin content--cursor-light">
+				<div class="content__inner content__inner--fheight flexy flexy--center">
+					<h2 class="content__title content__title--light">Cuerdas</h2>
+					<p class="content__subtitle content__subtitle--light">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+					
+				</div>
+				<div class="interaction interaction--corner interaction--light"></div>
+			</section>

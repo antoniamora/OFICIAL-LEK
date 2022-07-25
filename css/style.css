@@ -391,43 +391,7 @@ a:focus {
 	color: #d06315;
 }
 
-.content--chime {
-	background: #c3cfda;
-}
 
-.content--chime .content__title,
-.content--chime .link-more,
-.content--harp .link-more,
-.content--xylophone .link-more,
-.content--kalimba .link-more,
-.content--xylophone .link-more,
-.content--tiny .link-more {
-	color: #4d61c5;
-}
-
-.content--harp {
-	background: #fdecc3;
-}
-
-.content--timpani {
-	background: #4d61c5;
-}
-
-.content--timpani .link-more {
-	color: #2a2c36;
-}
-
-.content--xylophone {
-	background: #d6da97;
-}
-
-.content--xylophone .content__title {
-	color: #4d61c5;
-}
-
-.content--xylophone .content__subtitle {
-	color: #d06315;
-}
 
 .content--tiny {
 	background: #fbe8ab;
