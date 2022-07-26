@@ -198,16 +198,18 @@ a:hover, a:focus {
 }
 
 .pricing-section {
-	padding: 2em 0 8em;
+	padding: 1em 0 1em;
 	min-height: 100vh;
 	position: relative;
 }
 
+
 .pricing-section__title {
-	font-size: 1.4em;
+	font-size: 1em;
 	font-weight: 700;
-	margin: 3em 0 5em;
-	flex: none;
+	margin: auto;
+	width: 60%;
+	padding: 10px;
 }
 
 .pricing-section a {
