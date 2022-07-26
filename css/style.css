@@ -35,33 +35,6 @@ a:focus {
 	pointer-events: none;
 }
 
-/* Social Button */
-.floating_btn_wsp{
-	display: flex;
-	position: fixed;
-	bottom: 20px;
-	left: 20px;
-	z-index: 11;
-} 
-
-.floating_btn_ig{
-	display: flex;
-	position: fixed;
-	bottom: 80px;
-	left: 20px;
-	z-index: 11;
-} 
-
-.image_btn_wsp{
-	border-radius: 25%;
-	box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.50);
-}
-
-.image_btn_ig{
-	border-radius: 10%;
-	box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.50);
-}
-
 /* Flexbox helper classes */
 .flexy {
 	display: flex;
