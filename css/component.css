@@ -38,7 +38,7 @@
 
 .pricing--yonten .pricing__item {
 	font-family: 'PT Sans', sans-serif;
-	padding: 2em 4em;
+	padding: 1.5em 2em;
 	cursor: default;
 	color: #fff;
 	margin: 1em;
@@ -198,8 +198,8 @@ a:hover, a:focus {
 }
 
 .pricing-section {
-	padding: 1em 0 1em;
-	min-height: 100vh;
+	padding: 0.5em 0 0.5em;
+	min-height: 80vh;
 	position: relative;
 }
 
@@ -213,7 +213,7 @@ a:hover, a:focus {
 }
 
 .pricing-section a {
-	color: #333;
+	color: #000;
 }
 
 .pricing-section a:hover, 
