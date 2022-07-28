@@ -265,6 +265,7 @@ a:focus {
 }
 
 /* Content */
+
 .content {
 	position: relative;
 	min-height: 100vh;
@@ -346,6 +347,7 @@ a:focus {
 	padding: 0 5vmax 0 5vmax;
 	text-transform: uppercase;
 	pointer-events: none;
+	color: #272729;
 }
 
 .content__title--color {
