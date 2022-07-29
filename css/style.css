@@ -347,7 +347,7 @@ a:focus {
 	padding: 0 5vmax 0 5vmax;
 	text-transform: uppercase;
 	pointer-events: none;
-	color: #272729;
+	color: #202022;
 }
 
 .content__title--color {
@@ -592,6 +592,12 @@ a:focus {
   font-size: 1.5rem;
 }
 
+.form-control {
+	float: center;
+	width: 15%;
+	padding-left: 30px;
+}
+
 .o {
 	text-align: center;
 	color: rgb(0, 0, 0);
@@ -603,6 +609,7 @@ a:focus {
 	text-align: center;
 	color: rgb(103, 52, 170);
 	font-size: 1.5rem;
+	padding-bottom: 50px;
   }
 .icons {
 	position: fixed;
