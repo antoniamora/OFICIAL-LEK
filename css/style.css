@@ -584,20 +584,6 @@ a:focus {
 	font-size: 1.8rem;
   }
 
-.email {
-  margin: 0.5rem;
-  padding: 0.1rem;
-  text-align: center;
-  color: rgb(0, 0, 0);
-  font-size: 1.5rem;
-}
-
-.form-control {
-	float: center;
-	width: 15%;
-	padding-left: 30px;
-}
-
 .o {
 	text-align: center;
 	color: rgb(0, 0, 0);
@@ -616,4 +602,16 @@ a:focus {
 	right: 0;
 	top: 200px;
 	z-index: 2000;
+}
+
+.ipz-iframe {
+	font-family: 'Arapey', serif;
+}
+
+.data-skip-lazy {
+	font-family: 'Arapey', serif;
+}
+
+.data-cfasync {
+	font-family: 'Arapey', serif;
 }

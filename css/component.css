@@ -213,12 +213,12 @@ a:hover, a:focus {
 }
 
 .pricing-section a {
-	color: #000;
+	color: rgb(255, 255, 255);
 }
 
 .pricing-section a:hover, 
 .pricing-section a:focus {
-	color: #000;
+	color: rgb(255, 255, 255);
 }
 
 /* Header */
