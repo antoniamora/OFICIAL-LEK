@@ -276,12 +276,12 @@ a:focus {
 	color: #fff;
 }
 
-.column--left .column__text {
+.column--right .column__text {
 	font-weight: bold;
 }
 
 .column--right .column__text {
-	color: #b0adad;
+	color: #ffffff;
 }
 
 /* Individual effects */
