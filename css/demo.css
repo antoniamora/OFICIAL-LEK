@@ -234,10 +234,30 @@ a:focus {
 	transform-origin: 50% 100%;
 }
 
+.stack__figure__matias {
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	overflow: hidden;
+	width: 100%;
+	height: 100%;
+	cursor: pointer;
+	transform-origin: 50% 100%;
+	margin-bottom: 1000px;
+}
+
 .stack__img {
 	position: relative;
 	display: block;
 	flex: none;
+}
+
+.stack__img__matias {
+	position: relative;
+	display: block;
+	flex: none;
+	
 }
 
 .grid__item-caption {
@@ -256,7 +276,22 @@ a:focus {
 	color: #fff;
 }
 
+.grid__item-title__matias {
+	font-size: 1.15em;
+	width: 100%;
+	margin: 1em 0;
+	text-align: left;
+	color: #fff;
+	margin-top: 47px;
+}
+
 .column {
+	width: 50%;
+	padding: 0 0.5em;
+	opacity: 0;
+}
+
+.col {
 	width: 50%;
 	padding: 0 0.5em;
 	opacity: 0;
@@ -268,6 +303,11 @@ a:focus {
 
 .column--right {
 	text-align: left;
+}
+
+.column--right__matias {
+	text-align: left;
+	margin-bottom: px;
 }
 
 .column__text {
