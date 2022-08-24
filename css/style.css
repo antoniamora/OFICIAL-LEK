@@ -36,30 +36,43 @@ a:focus {
 }
 
 /* Social Button */
-.floating_btn_wsp{
+.floating_btn_wsp {
 	display: flex;
 	position: fixed;
-	bottom: 20px;
-	left: 20px;
+	bottom: 170px;
+	left: 0px;
 	z-index: 11;
 } 
 
-.floating_btn_ig{
+.floating_btn_ig {
 	display: flex;
 	position: fixed;
-	bottom: 80px;
-	left: 20px;
+	bottom: 220px;
+	left: 0px;
+	z-index: 11;
+}
+
+.floating_btn_mail {
+	display: flex;
+	position: fixed;
+	bottom: 120px;
+	left: 0px;
 	z-index: 11;
 } 
 
-.image_btn_wsp{
+.image_btn_wsp {
 	border-radius: 25%;
 	box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.50);
 }
 
-.image_btn_ig{
+.image_btn_ig {
 	border-radius: 10%;
 	box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.50);
+}
+
+.image_btn_mail {
+	border-radius: 
+	box-shadow 2px 2px 5px rgba(0, 0, 0, 0.50);
 }
 
 
@@ -241,7 +254,7 @@ a:focus {
 	max-width: 1000px;
 	margin: 1vh 0 1.25em 0;
 	padding: 0 2em;
-	color: #38383c;
+	color: #1f1f20;
 }
 
 .interaction {
@@ -376,6 +389,24 @@ a:focus {
 	max-width: 1000px;
 	margin: 1vh 5 1.25em 0;
 	padding: 0 2em;
+}
+
+.content__subtitle__profes {
+	font-family: 'Arapey', serif;
+	font-size: 1.7em;
+	font-weight: normal;
+	max-width: 1000px;
+	margin: 1vh 5 1.25em 0;
+	padding: 2 2em;
+}
+
+.content__subtitle__precios {
+	font-family: 'Arapey', serif;
+	font-size: 1.6em;
+	font-weight: normal;
+	max-width: 1000px;
+	margin: 1vh 5 1.25em 0;
+	padding: 2 2em;
 }
 
 .content__subtitle--light {
